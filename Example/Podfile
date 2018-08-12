@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JLLinearLayout_Example' do
+  pod 'JLLinearLayout', :path => '../'
+
+  target 'JLLinearLayout_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
