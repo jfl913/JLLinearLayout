@@ -1,0 +1,16 @@
+PODS:
+  - JLLinearLayout (0.1.0)
+
+DEPENDENCIES:
+  - JLLinearLayout (from `../`)
+
+EXTERNAL SOURCES:
+  JLLinearLayout:
+    :path: ../
+
+SPEC CHECKSUMS:
+  JLLinearLayout: 3709dd3f1e6b71b9c7ce9ced4c82b668845c642f
+
+PODFILE CHECKSUM: 823b06fa925e42b0b41ba5b6681f393f3dbf54d7
+
+COCOAPODS: 1.3.1
